@@ -31,7 +31,7 @@ A visual quiz application that dynamically renders animal images and tracks scor
 
 ## 🚀 Live Demo
 You can play all three games directly in your browser here:
-👉 **[Link to your GitHub Pages URL here]**
+👉 **[https://nabeel1921.github.io/JS-Game-Suite/]**
 
 ## 📂 Project Structure
 ```text
