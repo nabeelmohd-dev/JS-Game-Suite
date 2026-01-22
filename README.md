@@ -29,9 +29,6 @@ A visual quiz application that dynamically renders animal images and tracks scor
 * **CSS3:** Custom styling and responsive layouts.
 * **JavaScript (ES6):** DOM API, Event Listeners, and Game Logic.
 
-## 🚀 Live Demo
-You can play all three games directly in your browser here:
-👉 **[https://nabeel1921.github.io/JS-Game-Suite/]**
 
 ## 📂 Project Structure
 ```text
